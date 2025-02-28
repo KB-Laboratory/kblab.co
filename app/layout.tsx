@@ -4,8 +4,8 @@ import AppHeader from "@/components/layouts/AppHeader";
 import AppFooter from "@/components/layouts/AppFooter";
 
 export const metadata: Metadata = {
-    title: 'v0 App',
-    description: 'Created with v0',
+    title: 'KB Lab FinTech',
+    description: 'We make finance easy for businesses—one SDK at a time.',
     generator: 'v0.dev',
 }
 
