@@ -35,17 +35,10 @@ const HeroSection = () => {
                                 className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white border-0"
                                 asChild
                             >
-                                <Link href="mailto:aungmyatmoe834@gmail.com">
-                                    Contact Us </Link>
-                            </Button>
-                            <Button
-                                size="lg"
-                                variant="outline"
-                                className="border-purple-500 text-purple-400 hover:bg-purple-500/10 hover:text-white"
-                                asChild
-                            >
-                                <Link href="mailto:aungmyatmoe834@gmail.com">
-                                    Book a Demo
+
+
+                                <Link href="https://forms.gle/An8RNiTdjE4JNXWf6">
+                                    Contact Us
                                 </Link>
                             </Button>
                         </div>
@@ -54,8 +47,8 @@ const HeroSection = () => {
                         <HeroVideoDialog
                             className="block dark:hidden"
                             animationStyle="from-center"
-                            videoSrc="https://www.youtube.com/embed/qh3NGpYRG3I?si=4rb-zSdDkVK9qxxb"
-                            thumbnailSrc="https://startup-template-sage.vercel.app/hero-light.png"
+                            videoSrc="https://www.youtube.com/embed/_IY514eVIjo?si=v0szayS6uMJ9MS4S"
+                            thumbnailSrc="/kbtc-superapp.png"
                             thumbnailAlt="Hero Video"
                         />
 

@@ -25,7 +25,7 @@ const AppFooter = () => {
                                   className="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">
                                 Products
                             </Link>
-                            <Link href="mailto:aungkokothet@gmail.com"
+                            <Link href="https://forms.gle/An8RNiTdjE4JNXWf6"
                                   className="text-sm font-medium text-gray-400 hover:text-purple-400 transition-colors">
                                 Contact
                             </Link>
@@ -73,6 +73,7 @@ const AppFooter = () => {
                                 </svg>
                             </Link>
                         </div>
+
                     </div>
                 </div>
                 <div className="container mt-4 text-center text-sm text-gray-400 py-8">

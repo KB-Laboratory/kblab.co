@@ -47,7 +47,8 @@ const AppHeader = () => {
                     <div className="hidden md:block">
                         <Button
                             className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white border-0">
-                            <Link href="mailto:aungkokothet@gmail.com">
+
+                            <Link href="https://forms.gle/An8RNiTdjE4JNXWf6">
                                 Contact Us
                             </Link>
                         </Button>

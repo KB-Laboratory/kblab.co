@@ -19,17 +19,8 @@ const FinalCtaSection = () => {
                             className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white border-0"
                             asChild
                         >
-                            <Link href="mailto:aungkokothet@gmail.com">
+                            <Link href="https://forms.gle/An8RNiTdjE4JNXWf6">
                                 Contact Us
-                            </Link>
-                        </Button>
-                        <Button
-                            size="lg"
-                            variant="outline"
-                            className="border-purple-500 text-purple-400 hover:bg-purple-500/10 hover:text-white"
-                        >
-                            <Link href="mailto:aungmyatmoe834@gmail.com">
-                                Schedule a Demo
                             </Link>
                         </Button>
                     </div>

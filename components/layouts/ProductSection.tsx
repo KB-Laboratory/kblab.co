@@ -40,18 +40,13 @@ const ProductSection = () => {
                             </p>
                             <div className="flex flex-wrap gap-3 pt-2">
                     <span
-                        className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">
-Education                    </span>
+                        className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300"> Custodial Wallets </span>
                                 <span
-                                    className="inline-flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-xs text-blue-300">
-ParentsAndStudents                    </span>
+                                    className="inline-flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-xs text-blue-300">Student verification</span>
                                 <span
-                                    className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">
-Communication                    </span>
+                                    className="inline-flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-xs text-blue-300">Rewards & Spending</span>
                                 <span
-                                    className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">
-                      Real-time Chat
-                    </span>
+                                    className="inline-flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-xs text-blue-300">Student-driven services marketplace (DEX)</span>
                             </div>
                             <Button
                                 className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white border-0 mt-2"
@@ -79,8 +74,8 @@ Communication                    </span>
                                     <HeroVideoDialog
                                         className="block dark:hidden"
                                         animationStyle="from-center"
-                                        videoSrc="https://www.youtube.com/embed/qh3NGpYRG3I?si=4rb-zSdDkVK9qxxb"
-                                        thumbnailSrc="https://startup-template-sage.vercel.app/hero-light.png"
+                                        videoSrc="https://www.youtube.com/embed/_IY514eVIjo?si=v0szayS6uMJ9MS4S"
+                                        thumbnailSrc="/kbtc-superapp.png"
                                         thumbnailAlt="Hero Video"
                                     />
                                 </div>
@@ -111,8 +106,8 @@ Communication                    </span>
                                         <HeroVideoDialog
                                             className="block dark:hidden"
                                             animationStyle="from-center"
-                                            videoSrc="https://www.youtube.com/embed/qh3NGpYRG3I?si=4rb-zSdDkVK9qxxb"
-                                            thumbnailSrc="https://startup-template-sage.vercel.app/hero-light.png"
+                                            videoSrc="https://www.youtube.com/embed/eiXPegucSXU?si=BIsSIb7Yx74F8Q5b"
+                                            thumbnailSrc="/drunk-duck-superapp.png"
                                             thumbnailAlt="Hero Video"
                                         />
                                     </div>
@@ -131,17 +126,12 @@ Communication                    </span>
                                 community-driven experiences.
                             </p>
                             <div className="flex flex-wrap gap-3 pt-2">
-                    <span
-                        className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">
-                      Real-time Chat
-                    </span>
                                 <span
-                                    className="inline-flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-xs text-blue-300">
-Community Driven                    </span>
+                                    className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">Cross-border loyalty ecosystem</span>
                                 <span
-                                    className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">
-                      Collaborative
-                    </span>
+                                    className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">Digital loyalty cards (NFTs & SBTs)</span>
+                                <span
+                                    className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">Credit Points</span>
                             </div>
                             <Button
                                 asChild
@@ -158,7 +148,7 @@ Community Driven                    </span>
                         <div className="space-y-4">
                             <div
                                 className="inline-flex items-center rounded-full border border-purple-500/30 bg-purple-500/10 px-3 py-1 text-sm text-purple-300">
-                                <span>Invoice Discounting</span>
+                                <span>mBoss</span>
                             </div>
                             <h3 className="text-2xl font-bold"> Fast Cash Flow on the Blockchain</h3>
                             <p className="text-gray-400">
@@ -167,14 +157,12 @@ Community Driven                    </span>
                             </p>
                             <div className="flex flex-wrap gap-3 pt-2">
                     <span
-                        className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">
-Marketplace                    </span>
+                        className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">NFT-based digital assets</span>
                                 <span
-                                    className="inline-flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-xs text-blue-300">
-ECommerce                    </span>
+                                    className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">Decentralized marketplace (DEX)</span>
                                 <span
-                                    className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">
-Seamless Transactions                    </span>
+                                    className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">Credit scoring & identity verification (SSI)</span>
+
                             </div>
                             <Button
                                 asChild
@@ -189,7 +177,7 @@ Seamless Transactions                    </span>
                                 <div
                                     className="absolute -inset-1 bg-gradient-to-r from-purple-600 to-blue-600 rounded-lg blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
                                 <Image
-                                    src="/short-term-asset-management.png?height=300&width=600"
+                                    src="/mboss.png?height=300&width=600"
                                     width={600}
                                     height={300}
                                     alt="Workflow Automation"
@@ -202,8 +190,8 @@ Seamless Transactions                    </span>
                                     <HeroVideoDialog
                                         className="block dark:hidden"
                                         animationStyle="from-center"
-                                        videoSrc="https://www.youtube.com/embed/qh3NGpYRG3I?si=4rb-zSdDkVK9qxxb"
-                                        thumbnailSrc="https://startup-template-sage.vercel.app/hero-light.png"
+                                        videoSrc="https://www.youtube.com/embed/rkHTV6jhneY?si=BfgCmS2gtJfcGXkh"
+                                        thumbnailSrc="/mboss.png"
                                         thumbnailAlt="Hero Video"
                                     />
                                 </div>
@@ -211,67 +199,6 @@ Seamless Transactions                    </span>
                         </div>
                     </div>
 
-
-                    {/* Product 4 */}
-                    <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
-                        <div className="order-2 lg:order-1 space-y-4 lg:pr-10">
-                            <div className="relative group">
-                                <div
-                                    className="absolute -inset-1 bg-gradient-to-r from-purple-600 to-blue-600 rounded-lg blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
-                                <Image
-                                    src="/placeholder.svg?height=300&width=600"
-                                    width={600}
-                                    height={300}
-                                    alt="Drunk Ducks"
-                                    className="relative rounded-lg border border-gray-800 bg-black/50 backdrop-blur-sm"
-                                />
-                            </div>
-                            <div
-                                className="relative aspect-video rounded-lg border border-gray-800 bg-black/50 backdrop-blur-sm overflow-hidden">
-                                <div className="relative">
-                                    <HeroVideoDialog
-                                        className="block dark:hidden"
-                                        animationStyle="from-center"
-                                        videoSrc="https://www.youtube.com/embed/qh3NGpYRG3I?si=4rb-zSdDkVK9qxxb"
-                                        thumbnailSrc="https://startup-template-sage.vercel.app/hero-light.png"
-                                        thumbnailAlt="Hero Video"
-                                    />
-                                </div>
-                            </div>
-                        </div>
-                        <div className="order-1 lg:order-2 space-y-4">
-                            <div
-                                className="inline-flex items-center rounded-full border border-blue-500/30 bg-blue-500/10 px-3 py-1 text-sm text-blue-300">
-                                <span>ShopperDoo</span>
-                            </div>
-                            <h3 className="text-2xl font-bold"> Next-Level Shopping
-                            </h3>
-                            <p className="text-gray-400">
-                                A digital marketplace connecting sellers with buyers, offering seamless
-                                transactions and web3 perks.
-
-                            </p>
-                            <div className="flex flex-wrap gap-3 pt-2">
-                    <span
-                        className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">
-Marketplace                    </span>
-                                <span
-                                    className="inline-flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-xs text-blue-300">
-ECommerce                   </span>
-                                <span
-                                    className="inline-flex items-center rounded-full bg-purple-500/10 px-3 py-1 text-xs text-purple-300">
-                      Group Buy
-                    </span>
-                            </div>
-                            <Button
-                                asChild
-                                className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white border-0 mt-2">
-                                <Link href="/products/4">
-                                    Learn More
-                                </Link>
-                            </Button>
-                        </div>
-                    </div>
 
                 </div>
             </div>
